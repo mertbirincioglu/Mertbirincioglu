@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mertbirincioglu
-- 👀 I’m interested in SQL, C#, Javascript, Block-Chain, Crypto Currencies
-- 🌱 I’m currently learning Javascript, SQL, C#
+- 👀 I’m interested in C#, Javascript, Block-Chain, Crypto Currencies
+- 🌱 I’m currently learning Javascript, Node.js, React.js, MongoDB, SQL, C#
 - 💞️ I’m looking to collaborate on coding and building projects together
 - 📫 How to reach me mail: mert.birincioglu@icloud.com
 
