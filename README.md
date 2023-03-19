@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mertbirincioglu
+- 👋 Hi, I’m @mertbirincioglu
 - 👀 I’m interested in SQL, C#, Javascript, Block-Chain, Crypto Currencies
 - 🌱 I’m currently learning Javascript, SQL, C#
 - 💞️ I’m looking to collaborate on coding and building projects together
